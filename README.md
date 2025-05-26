@@ -6,7 +6,17 @@ Send image messages via WhatsApp using Maytapi's API with Python.
 - Send images using Base64 encoded strings  
 - Optional captions for images  
 - Uses `requests` for lightweight HTTP calls  
-- Environment variable support with `.env`  
+- Environment variable support with `.env`
+
+## 🔗 Navigation Links
+
+Based on stakeholder feedback, the following key navigation links have been added:
+
+- 🌐 [Home Page](https://maytapi.com/)  
+- 🔐 [Login Page](https://console.maytapi.com/login)  
+- 💰 [Pricing](https://maytapi.com/whatsapp-api-pricing)  
+- 📄 [Documentation](https://maytapi.com/whatsapp-api-documentation#)
+  
 
 ## 📦 Installation  
 Install the required packages:

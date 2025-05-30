@@ -18,11 +18,8 @@ This Python library provides a seamless integration with **WhatsApp Business API
 | Resource | Description | Link |
 |----------|-------------|------|
 | 🌐 **Official Website** | Maytapi WhatsApp API Platform | [Visit Site](https://maytapi.com/) |
-| 🔐 **Developer Console** | Manage API keys and configurations | [Login Here](https://console.maytapi.com/login) |
 | 💰 **Pricing & Plans** | Flexible pricing for all business sizes | [View Pricing](https://maytapi.com/whatsapp-api-pricing) |
 | 📖 **API Documentation** | Complete developer documentation | [Read Docs](https://maytapi.com/whatsapp-api-documentation) |
-| 🚀 **Live Demo** | Try the API in action | [Demo Page](https://maytapi.com/demo) |
-| 💬 **24/7 Support** | Get help from our expert team | [Contact Support](https://maytapi.com/support) |
 
 ## ⭐ Key Features & Capabilities
 

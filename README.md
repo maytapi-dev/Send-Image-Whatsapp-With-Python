@@ -1,4 +1,4 @@
-# 🖼️ WhatsApp Image Messaging API for Python | Send Images via WhatsApp Business API
+# 🖼️ WhatsApp Image Messaging API for Python | Send Images via WhatsApp API
 
 > **Professional WhatsApp Business API Integration** - Send image messages programmatically using Python with Maytapi's powerful WhatsApp API. Perfect for businesses, developers, and automation projects.
 
